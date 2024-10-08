@@ -1,4 +1,4 @@
-package com.loan.manager;
+package com.algon.loan.manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

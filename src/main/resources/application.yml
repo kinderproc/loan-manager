@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: loan-manager
+server:
+  port: 8080
